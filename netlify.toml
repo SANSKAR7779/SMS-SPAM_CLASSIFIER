@@ -1,3 +1,3 @@
 [build]
-  command = "streamlit run app.py"
-  publish = "app.py"
+  command = "pip install -r requirements.txt && streamlit run app.py"
+  publish = "C:\Users\hp\OneDrive\Desktop\Projects\SMS Spam Classifier\app.py"
